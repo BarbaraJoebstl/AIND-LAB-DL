@@ -1,0 +1,3 @@
+[submodule "AIND-LAB-Keras"]
+	path = AIND-LAB-Keras
+	url = https://github.com/BarbaraJoebstl/AIND-LAB-Keras
